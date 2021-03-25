@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Hello World!
         </h1>
-        <p>It's nice to see you</p>
+        <p>It's nice to see you again!</p>
       </main>
 
       <footer className={styles.footer}>

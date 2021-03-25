@@ -8,7 +8,7 @@ export default class Try extends Component {
             <div>
                 <h1>gheajba</h1>
                 <span className="fa fa-user"></span>
-                <span className="fa fa-bell fa-lg"></span>
+                <span className="fa fa-bag fa-lg"></span>
             </div>
         )
     }
